@@ -1,3 +1,20 @@
+# 🐱CatPals🐱
+
+![banner](docs/images/CatPals_banner.png)
+
+![GitHub Created At](https://img.shields.io/github/created-at/lang-jiaqi/tp?color=...)
+![contributors](https://img.shields.io/badge/contributors-5-brightgreen)
+![license](https://img.shields.io/github/license/lang-jiaqi/tp.svg?color=bright-green)
+![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)
+
+## Table of Contents
+
+- [Security](#security)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Security
 

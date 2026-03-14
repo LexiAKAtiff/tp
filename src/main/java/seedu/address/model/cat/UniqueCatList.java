@@ -8,9 +8,8 @@ import java.util.List;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import seedu.address.model.cat.exceptions.DuplicateCatException;
 import seedu.address.model.cat.exceptions.CatNotFoundException;
-
+import seedu.address.model.cat.exceptions.DuplicateCatException;
 /**
  * A list of cats that enforces uniqueness between its elements and does not allow nulls.
  * A cat is considered unique by comparing using {@code Cat#isSameCat(Cat)}. As such, adding and updating of

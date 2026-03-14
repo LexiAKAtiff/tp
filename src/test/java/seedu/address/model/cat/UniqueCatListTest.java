@@ -15,8 +15,8 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-import seedu.address.model.cat.exceptions.DuplicateCatException;
 import seedu.address.model.cat.exceptions.CatNotFoundException;
+import seedu.address.model.cat.exceptions.DuplicateCatException;
 import seedu.address.testutil.CatBuilder;
 
 public class UniqueCatListTest {

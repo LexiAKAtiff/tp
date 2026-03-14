@@ -13,9 +13,9 @@ import java.util.stream.Stream;
 import seedu.address.logic.commands.AddCommand;
 import seedu.address.logic.parser.exceptions.ParseException;
 import seedu.address.model.cat.Address;
+import seedu.address.model.cat.Cat;
 import seedu.address.model.cat.Email;
 import seedu.address.model.cat.Name;
-import seedu.address.model.cat.Cat;
 import seedu.address.model.cat.Phone;
 import seedu.address.model.tag.Tag;
 

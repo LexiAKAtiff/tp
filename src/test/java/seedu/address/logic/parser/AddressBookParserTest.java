@@ -23,11 +23,11 @@ import seedu.address.logic.commands.FindCommand;
 import seedu.address.logic.commands.HelpCommand;
 import seedu.address.logic.commands.ListCommand;
 import seedu.address.logic.parser.exceptions.ParseException;
-import seedu.address.model.cat.NameContainsKeywordsPredicate;
 import seedu.address.model.cat.Cat;
-import seedu.address.testutil.EditCatDescriptorBuilder;
+import seedu.address.model.cat.NameContainsKeywordsPredicate;
 import seedu.address.testutil.CatBuilder;
 import seedu.address.testutil.CatUtil;
+import seedu.address.testutil.EditCatDescriptorBuilder;
 
 public class AddressBookParserTest {
 

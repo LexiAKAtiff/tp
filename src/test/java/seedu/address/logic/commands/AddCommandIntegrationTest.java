@@ -42,7 +42,7 @@ public class AddCommandIntegrationTest {
     public void execute_duplicateCat_throwsCommandException() {
         Cat personInList = model.getAddressBook().getCatList().get(0);
         assertCommandFailure(new AddCommand(personInList), model,
-                AddCommand.MESSAGE_DUPLICATE_PERSON);
+                AddCommand.MESSAGE_DUPLICATE_CAT);
     }
 
 }
